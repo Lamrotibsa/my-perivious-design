@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+
+</head>
+
+<body>
+    <div class="heading">
+    <p><img src="photo/Harar.png" alt="harar logo">
+        <a href="Home.html">Home</a>
+        <a href="About">About</a>
+        <a href="Gallery.html">Gallery</a>
+        <a href="Contact.html">Contact</a>
+        <a href="Story.html">Story</a>
+        <a href="New.html">New</a>
+    </div>
+
+    </p>
+    <br>
+    <div class="backg">
+    <h1>Land of beauty</h1>
+    </div>
+    <br>
+    <p>Harar is different to any other Ethiopian city, a walled town, with over 360 twisting and winding alleys squeezed
+        into 1 square kilometre, it is similar to the medinas of Morocco. Harar is the Islam capital of Ethiopia and is
+        crammed with mosques, colourful markets, coffee shops and crumbling walls. It is colourful and photogenic and
+        the Adare (Hariri) women’s dresses and head scarves are particularly colourful and exotic.”</p>
+    <p>
+        “The most spectacular part of the cultural Heritage is certainly the traditional Harari house, whose
+        architectural form is typical, specific and original, different from the domestic layout usually known in Muslim
+        countries, although reminiscent of the coastal Arab architecture. Their style is unique in Ethiopia and their
+        interior design quite exceptional. When Harari people mention the “Harari culture” they actually refer to the
+        beauty of their houses, which they are very proud of. At the end of the 19th century Indian merchants built new
+        houses whose wooden verandas defined a different urban landscape and influenced the construction of
+        Indian/Harari houses. Their architectural and ornamental qualities are now part of the Harari cultural heritage.
+        The city is very well preserved, and few modern buildings have damaged the traditional architectural
+        typologies.”
+    </p>
+    <p>“Spotted hyenas could be considered the most hated mammal in Africa. Decried as ugly and awkward, associated with
+        witches and sorcerers and seen as contaminating, spotted hyenas are a public relations challenge of the highest
+        order. Yet in Harar, hyenas are not only allowed into the town to clean the streets of food scraps, they are
+        deeply embedded in the traditions and beliefs of the townspeople.”</p>
+    <p>The walls of Harar were pierced in early times by five gates, a number supposed to symbolize the Five Pillars of
+        Islam. Each of these city gates play a different role in the economy of the city and of neighbouring lands.</p>
+        <ul>
+            <li>Harar Gate</li>
+            <li>Showa Gate</li>
+            <li>Erer Gate</li>
+            <li>Sanga Gate</li>
+            <li>Buda Gate</li>
+            <li>Fallana Gate</li>
+        </ul>
+        <div class="footer">
+            <div class="phone">
+                <a href="tel:0983418977">0983418977</a>
+                <a href = "lamrotibsa@gmail.com">lamrotibsa@gmail.com</a>
+
+            </div>
+            <div class="midia">
+                Follow us
+                <a href="">face book</a>
+                <a href="">twiter</a>
+                <a href="">telegram</a>
+                <a href="">whatsup</a>
+
+            </div>
+            <div class="ph">
+                <img src="photo/girl.jfif" alt="harar's girl">
+            </div>
+
+        </div>
+
+</body>
+
+</html>
